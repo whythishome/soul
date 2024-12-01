@@ -46,8 +46,11 @@ async function fetchData(id) {
             const scriptContent = $(element).html();
             if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
+                const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
                 if (igUsernameMatch) {
                     igUsername = igUsernameMatch[1];
+                } else if (pageAliasMatch) {                    
+                    pageId = pageAliasMatch[1];
                 } else {
                     const pageIdMatch = scriptContent.match(/"page_id":"([^"]+)"/);
                     pageId = 'https://www.facebook.com/' + pageIdMatch[1];
