@@ -40,22 +40,22 @@ async function fetchData(id) {
         // Extract the ig_username value
         const scriptTags = $('script');
         let igUsername = null;
-        let pageProfileUri = null;
+        let pageId = null;
 
         scriptTags.each((index, element) => {
             const scriptContent = $(element).html();
-            if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_profile_uri":')) {
+            if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
                 if (igUsernameMatch) {
                     igUsername = igUsernameMatch[1];
                 } else {
-                    const pageProfileUriMatch = scriptContent.match(/"page_profile_uri":"([^"]+)"/);
-                    pageProfileUri = pageProfileUriMatch[1].replace(/\\\//g, '/'); // Clean the URI
+                    const pageIdMatch = scriptContent.match(/"page_id":"([^"]+)"/);
+                    pageId = 'https://www.facebook.com/' + pageIdMatch[1];
                 }
             }
         });
 
-        return { id, igUsername, pageProfileUri };
+        return { id, igUsername, pageId };
 
     } catch (error) {
         console.error('Error fetching data:', error);
@@ -70,8 +70,8 @@ async function fetchAllData(ids) {
         results.push(result);
         if (result.igUsername) {
             console.log(`ID: ${result.id}, Instagram Username: ${result.igUsername}`);
-        } else if (result.pageProfileUri) {
-            console.log(`ID: ${result.id}, Page Profile URI: ${result.pageProfileUri}`);
+        } else if (result.pageId) {
+            console.log(`ID: ${result.id}, Page Profile URI: ${result.pageId}`);
         }
         // Introduce a delay between requests
         await delay(2000); // 2000 milliseconds = 2 seconds
@@ -81,7 +81,7 @@ async function fetchAllData(ids) {
 
 async function saveToTextFile(results, filePath) {
     const fileContent = results.map(result =>
-        `${result.id};${result.igUsername || ''};${result.pageProfileUri || ''}`
+        `${result.id};${result.igUsername || ''};${result.pageId || ''}`
     ).join('\n');
 
     fs.writeFileSync(filePath, fileContent, 'utf8');
