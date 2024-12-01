@@ -21,7 +21,7 @@ jobs:
       with:
            node-version: 18
 
-    - name: npm grab epg
+    - name: npm extract data
       run: |
           npm install
           node FacebookAds.js
