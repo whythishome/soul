@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Add Facebook Ad IDs
-const ids = ['924748942438754', '1121969616346855'];
+const ids = ['https://www.facebook.com/ads/library/?id=924748942438754', 'https://www.facebook.com/ads/library/?id=1121969616346855'];
 
 // Function to introduce a delay
 function delay(ms) {
@@ -12,7 +12,7 @@ function delay(ms) {
 }
 
 async function fetchData(id) {
-    let url = 'https://www.facebook.com/ads/library/?id=' + id;
+    let url = id;
     const headers = {
         'Accept': '*/*',
         'Accept-Language': 'en-US,en;q=0.9',
