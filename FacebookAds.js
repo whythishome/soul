@@ -88,17 +88,8 @@ async function saveToTextFile(results, filePath) {
     console.log(`Results saved to ${filePath}`);
 }
 
-const directory = 'C:/Users/xxxx/Downloads'; // Specify the directory where you want to save the text file
-const fileName = 'facebook_ads_data.txt'; // Specify the file name
-const filePath = path.join(directory, fileName);
-
-// Ensure the directory exists
-if (!fs.existsSync(directory)){
-    fs.mkdirSync(directory);
-}
-
 fetchAllData(ids)
-    .then(results => saveToTextFile(results, filePath))
+    .then(results => saveToTextFile(results, 'facebook_ads_data.txt'))
     .catch(error => {
         console.error('Error in fetchAllData:', error);
     });
