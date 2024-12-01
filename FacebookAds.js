@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Add Facebook Ad IDs
-const ids = ['https://www.facebook.com/ads/library/?id=924748942438754', 'https://www.facebook.com/ads/library/?id=1121969616346855'];
+const ids = ['https://www.facebook.com/ads/library/?id=924748942438754', 'https://www.facebook.com/ads/library/?id=3874256196234040', 'https://www.facebook.com/ads/library/?id=559505813378774'];
 
 // Function to introduce a delay
 function delay(ms) {
