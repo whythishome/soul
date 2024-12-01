@@ -1,7 +1,7 @@
 {
   "name": "epg",
   "scripts": {
-    "grab": "npx tsx scripts/commands/epg/grab.ts",
+    "grab": "npx tsx scripts/commands/epg/grab.ts"
   },
   "private": true,
   "jest": {
