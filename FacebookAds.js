@@ -50,7 +50,7 @@ async function fetchData(id) {
                 if (igUsernameMatch) {
                     igUsername = igUsernameMatch[1];
                 } else if (pageAliasMatch) {                    
-                    pageId = pageAliasMatch[1];
+                    pageId = 'https://www.facebook.com/' + pageAliasMatch[1];
                 } else {
                     const pageIdMatch = scriptContent.match(/"page_id":"([^"]+)"/);
                     pageId = 'https://www.facebook.com/' + pageIdMatch[1];
