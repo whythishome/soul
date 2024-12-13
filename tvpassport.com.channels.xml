@@ -33,7 +33,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="american-sports-network/14118" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s147367_h15_aa.png">The Nest</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amg-tv/6836" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55916_h9_aa.png">AMG-TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amga-tv-armenian/13328" logo="">amga TV (Armenian)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ami-audio--east/3414">AMI-Audio - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ami-audio--east/3414" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20783_h15_ab.png">AMI-Audio - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ami-audio-east-dv/7587" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20783_h15_ab.png">AMI-Audio East DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ami-tele-hd/13776" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91112_h15_ab.png">AMI-télé HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ami-tele/13775" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91109_h15_ab.png">AMI-télé</channel>
@@ -115,7 +115,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nba-league-pass-hd-5/30924" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">Bell: NBA League Pass HD 5</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nba-league-pass-hd-6/30925" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">Bell: NBA League Pass HD 6</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nba-league-pass-hd-7/30926" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">Bell: NBA League Pass HD 7</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nba-league-pass-hd-8/30927">Bell: NBA League Pass HD 8</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nba-league-pass-hd-8/30927" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s95843_h15_ab.png">Bell: NBA League Pass HD 8</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nba-league-pass-hd-9/30928" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">Bell: NBA League Pass HD 9</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nfl-sunday-ticket-1-hd/20088" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17678_h15_aa.png">Bell: NFL Sunday Ticket 1 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-nfl-sunday-ticket-1/20074" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17678_h15_aa.png">Bell: NFL Sunday Ticket 1</channel>
@@ -180,7 +180,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="BETJams.us" site_id="bet-jams/2113" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s30419_h15_ac.png">BET Jams</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BETSoul.us" site_id="bet-soul/3229" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18718_h15_ad.png">BET Soul</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="big-island-television/11037" logo="">Big Island Television</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BigTenNetworkAlternate.us" site_id="big-ten-network--alternate/11580">Big Ten Network - Alternate</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BigTenNetworkAlternate.us" site_id="big-ten-network--alternate/11580" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s56783_h15_ab.png">Big Ten Network - Alternate</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BigTenNetworkAlternate.us" site_id="big-ten-network-alternate-hd/7340" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58321_h15_ac.png">Big Ten Network - Alternate HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="big-ten-network-hd/4500" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s56783_h15_ab.png">Big Ten Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="big-ten-network-ondemand/6848" logo="">Big Ten Network OnDemand</channel>
@@ -197,7 +197,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bloomberg-tv-canada/17045" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20709_h15_aa.png">Bloomberg TV Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bloomberg-tv-usa-hd/6790" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s71799_h15_ab.png">Bloomberg TV USA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bnn--business-news-network-hd/10043" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s73963_h15_aa.png">BNN Bloomberg HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bnn--business-news-network/294">BNN Bloomberg</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bnn--business-news-network/294" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20709_h15_aa.png">BNN Bloomberg</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bollywood-hits-on-demand/8916" logo="">Bollywood Hits On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bollywood-on-demand/8115" logo="">Bollywood On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="book-television/1158" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26771_h15_ab.png">Book Television</channel>
@@ -283,8 +283,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cartoon-network-espanol/4560" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59562_h15_aa.png">Cartoon Network Espanol</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cartoon-network-latin-america/8372" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59562_h15_aa.png">Cartoon Network Latin America</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cartoon-network-on-demand/4783" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s31602_h15_aa.png">Cartoon Network on Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetworkEast.us" site_id="cartoon-network-usa--eastern-feed/661">Cartoon Network USA - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetworkPacific.us" site_id="cartoon-network-usa--pacific-feed/1209">Cartoon Network USA - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetworkEast.us" site_id="cartoon-network-usa--eastern-feed/661" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png">Cartoon Network USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetworkPacific.us" site_id="cartoon-network-usa--pacific-feed/1209" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png">Cartoon Network USA - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetworkEast.us" site_id="cartoon-network-usa-hd--eastern/6917" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s60048_h15_ac.png">Cartoon Network USA HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetworkPacific.us" site_id="cartoon-network-usa-hd--pacific/8880" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s60048_h15_ac.png">Cartoon Network USA HD - Pacific</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="" site_id="casa-hd/10211" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59532_h15_ab.png">CASA HD</channel>
@@ -353,7 +353,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ComedyCentralEast.us" site_id="comedy-central-us--eastern-feed/647">Comedy Central (US) - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ComedyCentralWest.us" site_id="comedy-central-us--pacific-feed/1212" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10149_h15_ab.png">Comedy Central (US) - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="comedy-network--east-dv/3966" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s76863_h15_ab.png">CTV Comedy - East DV</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="comedy-network--east-hd/10771">CTV Comedy - East HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="comedy-network--east-hd/10771" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s76863_h15_ab.png">CTV Comedy - East HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="comedy-network--east/159">CTV Comedy - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="comedy-network--west-dv/3967" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s80637_h15_aa.png">CTV Comedy - West DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="comedy-network--west-hd/10772" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s80637_h15_aa.png">CTV Comedy - West HD</channel>
@@ -401,14 +401,14 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw--network-hd/20359" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">CW - Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw--network-mountain/15239" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">CW - Network Mountain</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw--network-pacific/4411" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">CW - Network Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-plus--central/3769">CW Plus - Central</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-plus--central/3769" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18749_h15_ad.png">CW Plus - Central</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-plus--eastern/1385" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18749_h15_ad.png">CW Plus - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-plus--mountain/3821" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18749_h15_ad.png">CW Plus - Mountain</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-plus--pacific/2413">CW Plus - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wpxt-portland-me-hd/7043" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">CW (WPXT) Portland, ME HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DaystarTV.us" site_id="daystar--network-hd/13634" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19026_h9_aa.png">Daystar - Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DaystarTV.us" site_id="daystar--network/6828" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19026_h9_aa.png">Daystar - Network</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="daystar-canada/3431">Daystar Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="daystar-canada/3431" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s48742_h15_aa.png">Daystar Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="daystar-wllb-portland-me/5090" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19026_h9_aa.png">Daystar (WLLB) Portland, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="dealers-choice/516">Dealers' Choice</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="decades--network/15640" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91415_h15_ab.png">Catchy Comedy - Network</channel>
@@ -433,13 +433,13 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-737/19312" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (737)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-738/19314" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (738)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-739/19316" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (739)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-740/19318">DirecTV MLB Extra Innings (740)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-740/19318" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (740)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-741/19320" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (741)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-742-hd/19323" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (742) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-742/19322" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (742)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-743/19324" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (743)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-744/19326" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (744)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-745/19328">DirecTV MLB Extra Innings (745)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-745/19328" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (745)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-746/19330" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (746)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-747/19332" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings (747)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-748/19334" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV MLB Extra Innings (748)</channel>
@@ -472,14 +472,14 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-hd-747/19333" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings HD (747)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-hd-748/19335" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings HD (748)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mlb-extra-innings-hd-749/19337" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95839_h15_ab.png">DirecTV MLB Extra Innings HD (749)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-471-hd/19239">DirecTV MLS Direct Kick (471) HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-471-hd/19239" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50126_h15_aa.png">DirecTV MLS Direct Kick (471) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-471/19238" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50126_h15_aa.png">DirecTV MLS Direct Kick (471)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-472-hd/19241" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50127_h15_aa.png">DirecTV MLS Direct Kick (472) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-472/19240" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50127_h15_aa.png">DirecTV MLS Direct Kick (472)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-473-hd/19243" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50128_h15_aa.png">DirecTV MLS Direct Kick (473) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-473/19242" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50128_h15_aa.png">DirecTV MLS Direct Kick (473)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-474-hd/19245" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50129_h15_aa.png">DirecTV MLS Direct Kick (474) HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-474/19244">DirecTV MLS Direct Kick (474)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-474/19244" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50129_h15_aa.png">DirecTV MLS Direct Kick (474)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-475-hd/19247" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s54346_h15_aa.png">DirecTV MLS Direct Kick (475) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-475/19246" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s54346_h15_aa.png">DirecTV MLS Direct Kick (475)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-mls-direct-kick-476-hd/19249" logo="">DirecTV MLS Direct Kick (476) HD</channel>
@@ -501,14 +501,14 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-757-hd/18940" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (757) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-757/18939" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (757)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-758-hd/18942" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (758) HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-758/18941">DirecTV NBA League Pass (758)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-758/18941" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s95843_h15_ab.png">DirecTV NBA League Pass (758)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-759-hd/18944" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (759) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-759/18943" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (759)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-760-hd/18946" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (760) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-760/18945" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (760)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-761-hd/18948" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (761) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-761/18947" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (761)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-762-hd/18950">DirecTV NBA League Pass (762) HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-762-hd/18950" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s95843_h15_ab.png">DirecTV NBA League Pass (762) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-762/18949" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (762)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-763-hd/18952" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (763) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-763/18951" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (763)</channel>
@@ -521,7 +521,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-767-hd/18960" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (767) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-767/18959" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (767)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-768-hd/18962" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s95843_h15_ab.png">DirecTV NBA League Pass (768) HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-768/18961">DirecTV NBA League Pass (768)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nba-league-pass-768/18961" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s95843_h15_ab.png">DirecTV NBA League Pass (768)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-769-hd/18963" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (769) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-769/18964" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (769)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-770-hd/18966" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (770) HD</channel>
@@ -529,11 +529,11 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-771-hd/18968" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (771) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-771/18967" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (771)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-772-hd/18970" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (772) HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-772/18969">DirecTV NHL Center Ice (772)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-772/18969" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (772)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-773-hd/18972" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (773) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-773/18971" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (773)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-774-hd/18974" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (774) HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-774/18973">DirecTV NHL Center Ice (774)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-774/18973" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (774)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-775-hd/18976" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (775) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-775/18975" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (775)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-nhl-center-ice-776-hd/18978" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50130_h15_ab.png">DirecTV NHL Center Ice (776) HD</channel>
@@ -578,7 +578,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-706/16853" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17680_h15_aa.png">DirecTV Sports 706</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-707-hd/16855" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17682_h15_aa.png">DirecTV Sports 707 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-707/16856" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17681_h15_aa.png">DirecTV Sports 707</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-708-hd/16858">DirecTV Sports 708 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-708-hd/16858" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17682_h15_aa.png">DirecTV Sports 708 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-708/16857" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17682_h15_aa.png">DirecTV Sports 708</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-709-hd/16860" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17683_h15_aa.png">DirecTV Sports 709 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-709/16859" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17683_h15_aa.png">DirecTV Sports 709</channel>
@@ -591,7 +591,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-713-hd/16868" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24258_h15_aa.png">DirecTV Sports 713 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-713/16867" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24258_h15_aa.png">DirecTV Sports 713</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-714-hd/16870" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17728_h15_aa.png">DirecTV Sports 714 HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-714/16869">DirecTV Sports 714</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-714/16869" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17728_h15_aa.png">DirecTV Sports 714</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-715-hd/16872" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17729_h15_aa.png">DirecTV Sports 715 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-715/16871" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17729_h15_aa.png">DirecTV Sports 715</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="directv-sports-716-hd/16874" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17789_h15_aa.png">DirecTV Sports 716 HD</channel>
@@ -676,10 +676,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="disney-hd--pacific/13488" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59684_h15_ad.png">Disney HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJunior.ca" site_id="disney-junior-canada-hd/17225" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s97312_h15_ab.png">Disney Junior Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJunior.ca" site_id="disney-junior-canada/17224" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s97311_h15_ab.png">Disney Junior Canada</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJuniorEast.us" site_id="disney-junior-usa--east/6867">Disney Junior USA - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJuniorEast.us" site_id="disney-junior-usa--east/6867" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png">Disney Junior USA - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJuniorWest.us" site_id="disney-junior-usa--west/16220" logo="">Disney Junior USA - West</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJuniorEast.us" site_id="disney-junior-usa-hd--east/10523" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s74885_h15_ac.png">Disney Junior USA HD - East</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJuniorWest.us" site_id="disney-junior-usa-hd--west/16229">Disney Junior USA HD - West</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyJuniorWest.us" site_id="disney-junior-usa-hd--west/16229" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74885_h15_ac.png">Disney Junior USA HD - West</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="disney-movies-ondemand-hd/8520" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10171_h15_ae.png">Disney Movies OnDemand HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="disney-movies-ondemand/6913" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10171_h15_ae.png">Disney Movies OnDemand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="disney-on-demand/5260" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10171_h15_ae.png">Disney on Demand</channel>
@@ -697,7 +697,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="do-it-yourself-network-usa-on-demand/5615">Magnolia Network On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="documentary-channel-canada-hd/9116" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26784_h15_aa.png">Documentary Channel (Canada) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="dtour--east/161" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17693_h15_ab.png">DTOUR - East</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="dtour--west/1022">DTOUR - West</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="dtour--west/1022" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17693_h15_ab.png">DTOUR - West</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="dtour-hd/3969" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s82747_h15_ab.png">DTOUR HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="dtour-on-demand/10885" logo="">DTOUR On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="duck-tv-on-demand/11318" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s117579_h9_aa.png">Duck TV On Demand</channel>
@@ -708,8 +708,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="EEast.us" site_id="e-entertainment-usa--eastern-feed/617" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10989_h15_aa.png">E! Entertainment USA - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="e-entertainment-usa--hawaii/6066" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10989_h15_aa.png">E! Entertainment USA - Hawaii</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EWest.us" site_id="e-entertainment-usa--pacific-feed/1213" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17561_h15_ab.png">E! Entertainment USA - Pacific Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="EEast.us" site_id="e-entertainment-usa-hd--east/6659">E! Entertainment USA HD - East</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="EWest.us" site_id="e-entertainment-usa-hd--pacific/17059">E! Entertainment USA HD - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="EEast.us" site_id="e-entertainment-usa-hd--east/6659" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61812_h15_aa.png">E! Entertainment USA HD - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="EWest.us" site_id="e-entertainment-usa-hd--pacific/17059" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61812_h15_aa.png">E! Entertainment USA HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="e-entertainment-usa-on-demand/4712" logo="">E! Entertainment USA on demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="eastlink-hospitality-guide-dup/19992" logo="">Eastlink Hospitality Guide (dup)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="eastlink-hospitality-guide/19554" logo="">Eastlink Hospitality Guide</channel>
@@ -723,17 +723,17 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="epic/18811" logo="">EPIC</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusEast.us" site_id="epix--east/7609" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s65669_h15_ae.png">MGM+ East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusWest.us" site_id="epix--pacific/13443" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s65669_h15_ae.png">MGM+ Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusDriveIn.us" site_id="epix-drive-in/11487">MGM+ Drive-In</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusDriveIn.us" site_id="epix-drive-in/11487" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png">MGM+ Drive-In</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusEast.us" site_id="epix-hd--east/7610" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s65687_h15_ag.png">MGM+ East HD - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusWest.us" site_id="epix-hd--pacfic/13465" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s65687_h15_ag.png">MGM+ HD - Pacfic</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusMarquee.us" site_id="epix-hits-hd/11616">MGM+ Marquee HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusMarquee.us" site_id="epix-hits-hd/11616" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74073_h15_ad.png">MGM+ Marquee HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="epix-on-demand-hd/9325" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s67491_h15_ab.png">MGM+ On Demand HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="epix-on-demand/7930">MGM+ On Demand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="epix-on-demand/7930" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s67491_h15_ab.png">MGM+ On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusHitsEast.us" site_id="epix2--east/11485" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s73075_h15_ad.png">MGM+ Hits - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusHitsEast.us" site_id="epix2-hd--east/11615" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s67929_h15_ad.png">MGM+ Hits HD - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="erotic-on-demand-hd/9002" logo="">Erotic On Demand HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="erotic-on-demand/9001" logo="">Erotic On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="escape--network/15773">ION Mystery - Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="escape--network/15773" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89923_h15_ad.png">ION Mystery - Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPNClassic.us" site_id="espn-classics-usa-hd/8816" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15451_h15_aa.png">ESPN Classics USA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPNClassic.us" site_id="espn-classics-usa/1077" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15451_h15_aa.png">ESPN Classics USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra2.us" site_id="espn-college-extra-2/15433" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20688_h15_aa.png">ESPN College Extra 2</channel>
@@ -767,7 +767,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ShopHQ.us" site_id="evine/1523" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14948_h15_ae.png">SHOPHQ</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ewtn-canada/619" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s33583_h15_aa.png">EWTN Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ewtn-espanol-hd/13508" logo="">EWTN Espanol HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ewtn-espanol/1878">EWTN Espanol</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ewtn-espanol/1878" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s52649_h15_ab.png">EWTN Espanol</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ewtn-usa-hd/8517" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s67164_h15_ab.png">EWTN USA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ewtn-usa/620" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10183_h15_ab.png">EWTN USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="exercise-ondemand/6843">Exercise OnDemand</channel>
@@ -808,18 +808,18 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="flix-hd--eastern/6482" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10201_h15_aa.png">FLIX HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="flix-on-demand/6483" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10201_h15_aa.png">FLIX On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fntsy-sports-network-hd/14465" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s87431_h15_ab.png">GAME+ HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fntsy-sports-network/14464">GAME+</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fntsy-sports-network/14464" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s87432_h15_aa.png">GAME+</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetwork.ca" site_id="food-network-canada-dv/8388" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24525_h15_ad.png">Food Network Canada DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetwork.ca" site_id="food-network-canada-hd/8389" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s73467_h15_ad.png">Food Network Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkEast.us" site_id="food-network-usa--eastern-feed/1054" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s12574_h15_ab.png">Food Network USA - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkWest.us" site_id="food-network-usa--pacific-feed/2032">Food Network USA - Pacific Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkEast.us" site_id="food-network-usa-hd--eastern-feed/3438">Food Network USA HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkWest.us" site_id="food-network-usa--pacific-feed/2032" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12574_h15_ab.png">Food Network USA - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkEast.us" site_id="food-network-usa-hd--eastern-feed/3438" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50747_h15_ab.png">Food Network USA HD - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkWest.us" site_id="food-network-usa-hd--pacific-feed/11581" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50747_h15_ab.png">Food Network USA HD - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox--central/9908" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10212_h15_ab.png">FOX - Central</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxEast.us" site_id="fox--eastern/1229" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10212_h15_ab.png">FOX - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox--mountain/9909">FOX - Mountain</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxWest.us" site_id="fox--pacific/4409" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10212_h15_ab.png">FOX - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="fox-business-hd/5600">Fox Business HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="fox-business-hd/5600" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58718_h15_ac.png">Fox Business HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxCollegeSportsAtlantic.us" site_id="fox-college-sports--atlantic/3352" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26077_h15_ac.png">Stadium College Sports - Atlantic</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxCollegeSportsCentral.us" site_id="fox-college-sports--central/3351" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26078_h15_ac.png">Stadium College Sports - Central</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxCollegeSportsPacific.us" site_id="fox-college-sports--pacific/3350" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26079_h15_ac.png">Stadium College Sports - Pacific</channel>
@@ -849,27 +849,27 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-florida-2-hd/31560" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50728_h15_ac.png">Bally Sports Florida 2 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-florida-2/31559" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s65412_h15_aa.png">Bally Sports Florida 2</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-florida-hd/4516" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50728_h15_ac.png">Bally Sports Florida HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-florida/1114">Bally Sports Florida</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-florida/1114" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11095_h15_ac.png">Bally Sports Florida</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-indiana-hd/5697" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s63725_h15_ac.png">Bally Sports Indiana HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-indiana/1112">Bally Sports Indiana</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-indiana/1112" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s63531_h15_ac.png">Bally Sports Indiana</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--central-indiana-hd/19657" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s63725_h15_ac.png">Bally Sports Midwest - Central Indiana HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--central-indiana/19538">Bally Sports Midwest - Central Indiana</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--central-indiana/19538" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s63531_h15_ac.png">Bally Sports Midwest - Central Indiana</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--centralsouthern-illinois-hd/19555" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11058_h15_ac.png">Bally Sports Midwest - Central/South Illinois HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--centralsouthern-illinois/19535">Bally Sports Midwest - Central/Southern Illinois</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--fort-wayne-hd/5696">Bally Sports Midwest - Fort Wayne HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--centralsouthern-illinois/19535" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11058_h15_ac.png">Bally Sports Midwest - Central/Southern Illinois</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--fort-wayne-hd/5696" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11058_h15_ac.png">Bally Sports Midwest - Fort Wayne HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--fort-wayne/19539" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11058_h15_ac.png">Bally Sports Midwest - Fort Wayne</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--iowa-hd/19658" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11058_h15_ac.png">Bally Sports Midwest - Iowa HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--iowa/19534" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11058_h15_ac.png">Bally Sports Midwest - Iowa</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--kansas-state-hd/5698" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19739_h15_ac.png">Bally Sports Midwest - Kansas State HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--kansas-state/19541" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19739_h15_ac.png">Bally Sports Midwest - Kansas State</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--mid-missouri-hd/19659">Bally Sports Midwest - Mid Missouri HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--mid-missouri-hd/19659" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69629_h15_ac.png">Bally Sports Midwest - Mid Missouri HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--mid-missouri/19542" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s69629_h15_ac.png">Bally Sports Midwest - Mid Missouri</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--nebraska-hd/7279" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19739_h15_ac.png">Bally Sports Midwest - Nebraska HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--nebraska/19545" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19739_h15_ac.png">Bally Sports Midwest - Nebraska</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--southeast-missouri-hd/19660">Bally Sports Midwest - Southeast Missouri HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--southeast-missouri-hd/19660" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69629_h15_ac.png">Bally Sports Midwest - Southeast Missouri HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--southeast-missouri/19543" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55739_h15_ad.png">Bally Sports Midwest - Southeast Missouri</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--st-louis-hd/5699">Bally Sports Midwest - St. Louis HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--st-louis/19544">Bally Sports Midwest - St. Louis</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--st-louis/19544" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11058_h15_ac.png">Bally Sports Midwest - St. Louis</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--terre-hautesouthwest-in-hd/19662" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11058_h15_ac.png">Bally Sports Midwest - Terre Haute IN HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest--terre-hautesouthwest-in/19537" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11058_h15_ac.png">Bally Sports Midwest - Terre Haute/SW IN</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-midwest-hd/11394" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50057_h15_ac.png">Bally Sports Midwest HD</channel>
@@ -881,8 +881,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-north-hd/4517" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s74436_h15_ab.png">Bally Sports North HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-north/1234" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10977_h15_ac.png">Bally Sports North</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio--cincinnati-2-hd/16261" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s69629_h15_ac.png">Bally Sports Ohio - Cincinnati (2) HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio--cincinnati-2/11128">Bally Sports Ohio - Cincinnati (2)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio--cleveland-hd/7414">Bally Sports Ohio - Cleveland HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio--cincinnati-2/11128" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11106_h15_ac.png">Bally Sports Ohio - Cincinnati (2)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio--cleveland-hd/7414" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s49691_h15_ac.png">Bally Sports Ohio - Cleveland HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio--cleveland/4302" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11106_h15_ac.png">Bally Sports Ohio - Cleveland</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio-hd/30971" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49691_h15_ac.png">Bally Sports Ohio+ HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-ohio-hd/4518" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49691_h15_ac.png">Bally Sports Ohio HD</channel>
@@ -892,35 +892,35 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-oklahoma/10315" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16056_h15_ab.png">Bally Sports Oklahoma</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-racing-hd/5488" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s77077_h15_aa.png">Fox Sports Racing HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-san-diego-hd/10273" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s74900_h15_ab.png">Bally Sports San Diego HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-san-diego/10272">Bally Sports San Diego</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-san-diego/10272" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74859_h15_ab.png">Bally Sports San Diego</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south--carolinas-hd/9981" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s12410_h15_ac.png">Bally Sports South - Carolinas HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south--carolinas/4531" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s12410_h15_ac.png">Bally Sports South - Carolinas</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south--tennessee-hd/11590" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s12410_h15_ac.png">Bally Sports South - TN Nashville HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south--tennessee/8025" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s12410_h15_ac.png">Bally Sports South - TN Nashville</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south-hd/4520">Bally Sports South HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south-hd/4520" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12410_h15_ac.png">Bally Sports South HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-south/1107" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s12410_h15_ac.png">Bally Sports South</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--georgia-hd/16243" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61138_h15_ac.png">Bally Sports Southeast - Georgia HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--georgia/10126">Bally Sports Southeast - Georgia</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--georgia/10126" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png">Bally Sports Southeast - Georgia</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--north-carolina-alt-hd/16244" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - North Carolina HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--north-carolina-alt/10127" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - North Carolina</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--north-carolina-reds-1-hd/16245" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - Tennessee East HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--north-carolina-reds-1/10128" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - Tennessee Nashville</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--south-carolina-hd/16247">Bally Sports Southeast - South Carolina HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--south-carolina-hd/16247" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png">Bally Sports Southeast - South Carolina HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--south-carolina/10130" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - South Carolina</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--tennesse-alt-hd/16249">Bally Sports Southeast - Tennessee Nashville HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--tennesse-alt-hd/16249" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png">Bally Sports Southeast - Tennessee Nashville HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--tennesse-alt/10131" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - Tennessee East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--tennessee-hd/16248" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - Tennessee HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast--tennessee/10132" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast - Tennessee</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast-hd/6685" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61138_h15_ac.png">Bally Sports Southeast HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southeast/1352" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20789_h15_ac.png">Bally Sports Southeast</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southwest--ok2-hd-southwest-plus/31585">Bally Sports Southwest Extra OK2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southwest--ok2-hd-southwest-plus/31585" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59629_h15_ac.png">Bally Sports Southwest Extra OK2 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southwest--ok2/11576" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10262_h15_ac.png">Bally Sports Southwest Extra- OK2</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southwest-hd/4521" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59629_h15_ac.png">Bally Sports Southwest HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southwest/1106">Bally Sports Southwest</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-southwest/1106" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10262_h15_ac.png">Bally Sports Southwest</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-sun--lighteningmagic-hd/4817" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18003_h15_ad.png">Bally Sports Sun HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-sun--lighteningmagic/4816" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18003_h15_ad.png">Bally Sports Sun</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-west-hawaii-feed/11081" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s102067_h15_ab.png">Bally Sports West (Hawaii Feed)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-west-hd/4522">Bally Sports West HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-west-hd/4522" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59627_h15_ac.png">Bally Sports West HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-west-prime-ticket-hd/5704" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59625_h15_ac.png">Bally Sports SoCal HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-west-prime-ticket/2592" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16743_h15_ac.png">Bally Sports SoCal</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-sports-west/1105" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59627_h15_ac.png">Bally Sports West</channel>
@@ -931,7 +931,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-kids-tv-ondemand/6416" logo="">Free Kids TV OnDemand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-movies-on-demand/9056" logo="">Free Movies On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-on-demand-hd/7645" logo="">Free On Demand HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-speech-network/4541">Free Speech Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-speech-network/4541" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16220_h9_aa.png">Free Speech Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-tv-on-demand/6476" logo="">Free TV On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-tv-on-demand2/14254">Free TV On Demand2</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="free-tv-on-demand3/14255" logo="">Free TV On Demand3</channel>
@@ -945,10 +945,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="french-movies-on-demand/10784">French Movies On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fuse-hd-on-demand/9748" logo="">Fuse HD On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fuse-on-demand/4788" logo="">Fuse On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FuseEast.us" site_id="fuse-tv--eastern-feed/1486">FUSE TV - Eastern feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FuseEast.us" site_id="fuse-tv--eastern-feed/1486" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png">FUSE TV - Eastern feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FuseWest.us" site_id="fuse-tv--pacific-feed/5926" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14929_h15_ac.png">FUSE TV - Pacific feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FuseEast.us" site_id="fuse-tv-hd--eastern/6221" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59116_h15_ac.png">FUSE TV HD - Eastern</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FuseWest.us" site_id="fuse-tv-hd--pacific/17062">FUSE TV HD - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FuseWest.us" site_id="fuse-tv-hd--pacific/17062" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png">FUSE TV HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fusion-hd/11364" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s83173_h15_ab.png">Fusion HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fusion/11294" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s83173_h15_ab.png">Fusion</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="fx-movie-channel/1308" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s70253_h15_aa.png">FX Movie Channel</channel>
@@ -958,11 +958,11 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-east-coast/652" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14321_h15_aa.png">FX Networks East Coast</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-west-coast-hd/8989" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58574_h15_aa.png">FX Networks West Coast HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fxx-canada-hd/13401" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s87894_h15_aa.png">FXX Canada HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa--eastern/1952">FXX USA - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa--eastern/1952" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17927_h15_aa.png">FXX USA - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXXWest.us" site_id="fxx-usa--pacific/19080" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17927_h15_aa.png">FXX USA - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa-hd--eastern/7506">FXX USA HD - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa-hd--eastern/7506" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s66379_h9_aa.png">FXX USA HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXXWest.us" site_id="fxx-usa-hd--pacific/19081" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66379_h9_aa.png">FXX USA HD - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FYIEast.us" site_id="fyi-usa--eastern/1971">FYI USA - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FYIEast.us" site_id="fyi-usa--eastern/1971" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58988_h15_aa.png">FYI USA - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FYIWest.us" site_id="fyi-usa--pacific/19082" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16834_h15_aa.png">FYI USA - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FYIEast.us" site_id="fyi-usa-hd--eastern/6211" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58988_h15_aa.png">FYI USA HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FYIWest.us" site_id="fyi-usa-hd--pacific/19083" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58988_h15_aa.png">FYI USA HD - Pacific</channel>
@@ -973,11 +973,11 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="galavision--eastern-feed/1894" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10222_h15_ac.png">Galavision - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="galavision--pacific-feed/1573" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10222_h15_ac.png">Galavision - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="galavision-hd--eastern/17237" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s68367_h15_ac.png">Galavision HD - Eastern</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="galavision-hd--pacific/9484">Galavision HD - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="galavision-hd--pacific/9484" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10222_h15_ac.png">Galavision HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-show-network--east-hd/7055" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s68827_h15_ab.png">Game Show Network - East HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-show-network--east/329" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14909_h15_ad.png">Game Show Network - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-show-network--west-hd/17060" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s68827_h15_ab.png">Game Show Network - West HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-show-network--west/13459">Game Show Network - West</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-show-network--west/13459" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14909_h15_ad.png">Game Show Network - West</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-tv-hd/7054" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s102147_h15_aa.png">Game TV HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game-tv/5976" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s48727_h15_ab.png">Game TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="gcn-khfd-ld4-dallas-tx/16608" logo="">GCN (KHFD-LD4) Dallas, TX</channel>
@@ -1009,7 +1009,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="greensboro-government-access/13720" logo="">Greensboro Government Access</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="guide-tele-teknocom/13780" logo="">Guide télé Teknocom</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="guide-us-tv/14314" logo="">Guide Us TV</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="gusto-tv-hd/11293">CTV Life HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="gusto-tv-hd/11293" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82984_h15_ab.png">CTV Life HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="gusto-tv/309" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18808_h15_ab.png">CTV Life</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="h2-canada-hd/8457" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s81208_h15_ac.png">History 2 Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="h2-canada-on-demand/10886">History 2 Canada On Demand</channel>
@@ -1022,11 +1022,11 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="HallmarkMoviesMysteriesEast.us" site_id="hallmark-movies--mysteries-eastern--hd/6214" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s46710_h15_ab.png">Hallmark Movies &amp; Mysteries Eastern - HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HallmarkMoviesMysteriesWest.us" site_id="hallmark-movies--mysteries-pacific--hd/19556" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s46710_h15_ab.png">Hallmark Movies &amp; Mysteries Pacific - HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOEast.us" site_id="hbo--eastern-feed/614" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10240_h15_aa.png">HBO - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="HBOWest.us" site_id="hbo--pacific-feed/1472">HBO - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOWest.us" site_id="hbo--pacific-feed/1472" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png">HBO - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBO2East.us" site_id="hbo-2--eastern-feed-hd/6313" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59368_h15_aa.png">HBO 2 - Eastern Feed HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBO2East.us" site_id="hbo-2--eastern-feed/626" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s68140_h15_ad.png">HBO 2 - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBO2West.us" site_id="hbo-2--pacific-feed-hd/6314" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59368_h15_aa.png">HBO 2 - Pacific Feed HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="HBO2West.us" site_id="hbo-2--pacific-feed/2205">HBO 2 - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO2West.us" site_id="hbo-2--pacific-feed/2205" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png">HBO 2 - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBO2.ca" site_id="hbo-canada--west/292" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61628_h15_ac.png">HBO Canada 2 - West</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBO1.ca" site_id="hbo-canada-1-hd/4230" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61568_h15_ab.png">HBO1 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBO1.ca" site_id="hbo-canada-1/84" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61557_h15_ab.png">HBO1</channel>
@@ -1045,14 +1045,14 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOFamilyWest.us" site_id="hbo-family--pacific-feed-hd/8250" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59357_h15_aa.png">HBO Family - Pacific Feed HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOFamilyWEst.us" site_id="hbo-family--pacific-feed/1216" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16585_h15_aa.png">HBO Family - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOEast.us" site_id="hbo-hd--eastern-feed/627" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s19548_h15_aa.png">HBO HD - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="HBOWest.us" site_id="hbo-hd--pacific-feed/2629">HBO HD - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOWest.us" site_id="hbo-hd--pacific-feed/2629" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s19548_h15_aa.png">HBO HD - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-latino-hbo-7--eastern/631" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24553_h9_ab.png">HBO Latino (HBO 7) - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-latino-hbo-7--pacific/2579" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24553_h9_ab.png">HBO Latino (HBO 7) - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-latino-hbo-7-hd--eastern/7096" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24553_h9_ab.png">HBO Latino (HBO 7) HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-latino-hbo-7-hd--pacific/8471" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24553_h9_ab.png">HBO Latino (HBO 7) HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-on-demand-hd/8610" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s38589_h15_ab.png">HBO On Demand HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-on-demand/3479" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s38589_h15_ab.png">HBO On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureEast.us" site_id="hbo-signature-hbo-3--eastern-hd/7099">HBO Signature (HBO 3) - Eastern HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureEast.us" site_id="hbo-signature-hbo-3--eastern-hd/7099" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59363_h15_aa.png">HBO Signature (HBO 3) - Eastern HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureEast.us" site_id="hbo-signature-hbo-3--eastern/1651" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10243_h15_aa.png">HBO Signature (HBO 3) - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureWest.us" site_id="hbo-signature-hbo-3--pacific-hd/7711" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59363_h15_aa.png">HBO Signature (HBO 3) - Pacific HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureWest.us" site_id="hbo-signature-hbo-3--pacific/2580" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10243_h15_aa.png">HBO Signature (HBO 3) - Pacific</channel>
@@ -1069,7 +1069,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hgtv-canada-on-demand/4335" logo="">HGTV Canada On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HGTVEast.us" site_id="hgtv-usa--eastern-feed/623" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14902_h15_ab.png">HGTV USA - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hgtv-usa--hawaii/6073">HGTV USA - Hawaii</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="HGTVWest.us" site_id="hgtv-usa--pacific-feed/1277">HGTV USA - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HGTVWest.us" site_id="hgtv-usa--pacific-feed/1277" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14902_h15_ab.png">HGTV USA - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HGTVEast.us" site_id="hgtv-usa-hd--eastern/3690" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49788_h15_ab.png">HGTV USA HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HGTVWest.us" site_id="hgtv-usa-hd--pacific-feed/16232" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49788_h15_ab.png">HGTV USA HD - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hi--heroes--icons-network/14969" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90401_h15_ad.png">H&amp;I - Heroes &amp; Icons Network</channel>
@@ -1280,16 +1280,16 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-5/14498" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21045_h15_ad.png">MLS Direct Kick 5</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-6-hd/14501" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55597_h15_ad.png">MLS Direct Kick 6 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-6/14500" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21046_h15_ad.png">MLS Direct Kick 6</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-7-hd/14503">MLS Direct Kick 7 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-7-hd/14503" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s55597_h15_ad.png">MLS Direct Kick 7 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-7/14502" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21047_h15_ad.png">MLS Direct Kick 7</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-8-hd/14505" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55597_h15_ad.png">MLS Direct Kick 8 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-8/14504" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21048_h15_ad.png">MLS Direct Kick 8</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-9-hd/14507">MLS Direct Kick 9 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-9-hd/14507" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s55597_h15_ad.png">MLS Direct Kick 9 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mls-direct-kick-9/14506" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21049_h15_ad.png">MLS Direct Kick 9</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mn-channel-tptmn/10374">MN Channel (tptMN)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mnt--network-eastern/3767">MNT - Network Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mnt--network-hd/20356" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51307_h15_aa.png">MNT - Network HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mnt--network-pacific/4412">MNT - Network Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mnt--network-pacific/4412" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51307_h15_aa.png">MNT - Network Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mnt-wpme-portland-me-hd/7040" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s89923_h15_ad.png">ION Mystery (WPXT3) Portland, ME HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mnt-wpme-portland-me/7039">ION Mystery (WPXT3) Portland, ME</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="" site_id="temoin-hd/9155" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s72006_h15_ac.png">Témoin HD</channel>
@@ -1298,7 +1298,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moremax--eastern-hd/7097" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59373_h15_ad.png">MoreMax - Eastern HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moremax--pacific-hd/8472" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59373_h15_ad.png">MoreMax - Pacific HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moremax--pacific/2581" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10121_h15_ad.png">MoreMax - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moremax-eastern/634">MoreMax Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moremax-eastern/634" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10121_h15_ad.png">MoreMax Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="movie-central-on-demand/7597" logo="">Movie Central On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moviemax--pacific/2625" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s25621_h15_ad.png">MovieMax - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="moviemax-max-6--east/1653">MovieMax (Max 6) - East</channel>
@@ -1380,7 +1380,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-wild-hd-on-demand/14485">National Geographic Wild HD On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild-hd/9579">National Geographic Wild HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-wild-on-demand/14486">National Geographic Wild On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild/7537">National Geographic Wild</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild/7537" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s66804_h15_ab.png">National Geographic Wild</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nature--knowledge-on-demand/8116">Nature &amp; Knowledge On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-1-hd/15356" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55597_h15_ad.png">NBA League Pass 1 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-1/15355" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20810_h15_ad.png">NBA League Pass 1</channel>
@@ -1404,7 +1404,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-9/15373" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21049_h15_ad.png">NBA League Pass 9</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBATVCanada.ca" site_id="nba-tv-canada-tv-hd/3615" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s53242_h15_ab.png">NBA TV Canada TV HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa-hd/5645">NBA TV USA HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa/3116">NBA TV USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa/3116" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png">NBA TV USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCCentral.us" site_id="nbc--central/9912" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">NBC - Central</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCMountain.us" site_id="nbc--mountain/9913">NBC - Mountain</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCEast.us" site_id="nbc--network-eastern/1227" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">NBC - Network Eastern</channel>
@@ -1532,7 +1532,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outdoor-life-network-canada-hd/9505" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17610_h15_af.png">Outdoor Life Network Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outdoor-life-network-canada/160">Outdoor Life Network Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outermax--eastern/2270">OuterMax - Eastern</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outermax--pacific/8502">OuterMax - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outermax--pacific/8502" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25622_h15_ab.png">OuterMax - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outermax-hd--eastern/7098" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59952_h15_ab.png">OuterMax HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outermax-hd--pacific/8503" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s25622_h15_ab.png">OuterMax HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="outrageous-on-demand/5640">Outrageous On Demand</channel>
@@ -1617,7 +1617,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rt-arabic/19887" logo="https://cdn.tvpassport.com/image/station/512x512/russia-today.png">RT Arabic</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rt-documentary/19848">RT Documentary</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rtpi-america/8980" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15717_h15_ad.png">RTPi America</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rtvi/3257">RTVi</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rtvi/3257" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s118421_h15_aa.png">RTVi</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sab-tv-sony/8968" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s74146_h15_ab.png">SAB TV (SONY)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="saint-pierre-et-miquelon-1ere/435" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21480_h15_aa.png">Saint-Pierre et Miquelon 1ère</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="salt--light/2469" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s42774_h15_ab.png">Salt &amp; Light</channel>
@@ -1681,14 +1681,14 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sleuth-on-demand/7926" logo="">Sleuth On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="slice-dv/8395" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15181_h15_ab.png">Slice DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="slice-hd/9632" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s81282_h15_ab.png">Slice HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="slice-on-demand-hd/10844">Slice On Demand HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="slice-on-demand-hd/10844" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90862_h15_ab.png">Slice On Demand HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="slice-on-demand/10843" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90862_h15_ab.png">Slice On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="smile/5275">Smile</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="smithsonian-channel-canada-hd/11405" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s53121_h15_aa.png">Smithsonian Channel Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="smithsonian-channel-usa-hd/6237" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58532_h15_aa.png">Smithsonian Channel USA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="smithsonian-channel-usa/4679" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s65799_h15_aa.png">Smithsonian Channel USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sny-sportsnet-new-york-comcast/4186" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49603_h9_aa.png">SNY: SportsNet New York (Comcast)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sny-sportsnet-new-york-hd/4713">SNY: SportsNet New York HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sny-sportsnet-new-york-hd/4713" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50038_h9_aa.png">SNY: SportsNet New York HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="soapnet-on-demand/6662">SoapNet On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sogetel-chaine-locale-2/9826" logo="">Sogetel: Chaîne Locale 2</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sogetel-chaine-locale/7764">Sogetel: Chaîne Locale</channel>
@@ -1723,7 +1723,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-4k/19278">Sportsnet 4K</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-canucks-hd/8630">Sportsnet Canucks HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-canucks/8628" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s68858_h15_aa.png">Sportsnet Canucks</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-east--satellitedigital-hd/16161">Sportsnet (East) - Satellite/Digital HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-east--satellitedigital-hd/16161" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18798_h15_aa.png">Sportsnet (East) - Satellite/Digital HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-east--satellitedigital/332" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18798_h15_aa.png">Sportsnet (East) - Satellite/Digital</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-east-hd/6043" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s62109_h15_aa.png">Sportsnet (East) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sportsnet-east/255" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18798_h15_aa.png">Sportsnet (East)</channel>
@@ -1806,7 +1806,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="starz-on-demand-hd/8206" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s113127_h15_aa.png">Starz On Demand HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="starz-on-demand/3476" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s113127_h15_aa.png">Starz On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="stingray-adult-alternative/2770">Stingray: Adult Alternative</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="stingray-all-day-party/2786">Stingray: All Day Party!</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="stingray-all-day-party/2786" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s75469_h15_aa.png">Stingray: All Day Party!</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="stingray-ambiance-hd--francais/14144" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91003_h15_ab.png">Stingray: Naturescape HD - Francais</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="stingray-ambiance-hd/16122">Stingray: Naturescape HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="stingray-around-the-world/2808" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21626_h15_aa.png">Stingray: Around the World</channel>
@@ -1989,7 +1989,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="thrillermax--pacific/2595" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18435_h15_ad.png">ThrillerMax - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="time-warner-cable-sportschannel-rochester/5896" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s109898_h9_ab.png">Spectrum Sports Rochester</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="tlc-canada-hd/6779">TLC Canada HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="tlc-canada/1204">TLC Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="tlc-canada/1204" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s60734_h15_ac.png">TLC Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TLCEast.us" site_id="tlc-usa--eastern/5005" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11158_h15_ad.png">TLC USA - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="tlc-usa--hawaii/6069">TLC USA - Hawaii</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TLCWest.us" site_id="tlc-usa--pacific/1205" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11158_h15_ad.png">TLC USA - Pacific</channel>
@@ -2135,7 +2135,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="v-hd/4884" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15696_h15_ac.png">Noovo HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="v-me-mpt-dt3-maryland-public-broadcasting/5550" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s101364_h15_ac.png">V-Me (MPT-DT3) Maryland Public Broadcasting</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="v-me-television-hd/8898" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55250_h15_ab.png">V-Me Television HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="v-me-television/20176">V-Me Television</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="v-me-television/20176" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s55250_h15_ab.png">V-Me Television</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="valu-tv-hd/16190">Valu TV HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="valu-tv/16189">Valu TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Motortrend.us" site_id="velocity-hd/12597" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s31046_h15_ab.png">Motor Trend HD</channel>
@@ -2340,7 +2340,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce2.us" site_id="nhl-center-ice-2/15383">NHL Center Ice 2</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce3.us" site_id="nhl-center-ice-3/15385" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26199_h15_ad.png">NHL Center Ice 3</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce4.us" site_id="nhl-center-ice-4/15387" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26200_h15_ad.png">NHL Center Ice 4</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce5.us" site_id="nhl-center-ice-5/15389">NHL Center Ice 5</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce5.us" site_id="nhl-center-ice-5/15389" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26201_h15_ad.png">NHL Center Ice 5</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce6.us" site_id="nhl-center-ice-6/15392" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26202_h15_ad.png">NHL Center Ice 6</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce7.us" site_id="nhl-center-ice-7/15393" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26203_h15_ad.png">NHL Center Ice 7</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce8.us" site_id="nhl-center-ice-8/15395" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26204_h15_ad.png">NHL Center Ice 8</channel>
@@ -2392,7 +2392,7 @@
   <channel site="tvpassport.com" lang="es" xmltv_id="TVChile.cl" site_id="tv-chile/2102" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16046_h15_ab.png">TV Chile</channel>
   <channel site="tvpassport.com" lang="es" xmltv_id="UnivisionCanada.ca" site_id="univision-canada/13625">Univision Canada</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="addikTV.ca" site_id="addik-tv/2033" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s44962_h15_ab.png">Addik TV</channel>
-  <channel site="tvpassport.com" lang="fr" xmltv_id="APTNHD.ca" site_id="aptn-hd/5997">APTN HD</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="APTNHD.ca" site_id="aptn-hd/5997" logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61998_h15_ac.png">APTN HD</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="AssembleenationaleduQuebec.ca" site_id="assemblee-nationale-du-quebec/431">Assemblee nationale du Quebec</channel>
   <channel site="tvpassport.com" lang="es" xmltv_id="AzMundo.mx" site_id="az-mundo/3998" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s79968_h15_ae.png">Azteca Internacional</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="CanalD.ca" site_id="canal-d/108">Canal D</channel>
