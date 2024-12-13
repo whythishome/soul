@@ -44,7 +44,7 @@ fs.readFile('tvpassport.com.channels.xml', 'utf8', (err, data) => {
       const updatedXml = builder.buildObject(result);
 
       // Save the updated XML back to the file
-      fs.writeFile('updated_channels.xml', updatedXml, (err) => {
+      fs.writeFile('tvpassport.com.channels.xml', updatedXml, (err) => {
         if (err) {
           console.error('Error writing updated XML file:', err);
         } else {
