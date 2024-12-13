@@ -20,16 +20,19 @@ fs.readFile('tvpassport.com.channels.xml', 'utf8', (err, data) => {
 
     // Iterate through each channel and fetch the logo URL
     const channels = result.channels.channel;
-
+    
     const promises = channels.map(async (channel) => {
       const siteId = channel.$.site_id; // Extract site_id from the channel attributes
       if (siteId) {
         try {
-          // Fetch the logo URL from TV Passport by making a request
-          const logoUrl = await fetchLogoForSiteId(siteId);
-          // Add the logo URL as a new attribute to the channel, only if not already present
-          if (logoUrl && !channel.logo) {
-            channel.logo = [logoUrl];  // Adding logo as an array (since XML parsing might expect it)
+          // Check if the channel already has a logo attribute
+          if (!channel.$.logo) {
+            // Fetch the logo URL only if the logo is missing
+            const logoUrl = await fetchLogoForSiteId(siteId);
+            // Add the logo URL as a new attribute to the channel if found
+            if (logoUrl) {
+              channel.$.logo = logoUrl;
+            }
           }
         } catch (error) {
           console.error(`Error fetching logo for site_id ${siteId}:`, error);
@@ -48,7 +51,7 @@ fs.readFile('tvpassport.com.channels.xml', 'utf8', (err, data) => {
         if (err) {
           console.error('Error writing updated XML file:', err);
         } else {
-          console.log('Updated XML saved to tvpassport.com.channels.xml');
+          console.log('Updated XML saved.');
         }
       });
     });
@@ -59,7 +62,6 @@ fs.readFile('tvpassport.com.channels.xml', 'utf8', (err, data) => {
 async function fetchLogoForSiteId(siteId) {
   try {
     const response = await axios.get(`https://www.tvpassport.com/tv-listings/stations/${siteId}`, {
-      maxRedirects: 5, // Allow a maximum of 5 redirects
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
@@ -67,16 +69,10 @@ async function fetchLogoForSiteId(siteId) {
         'Connection': 'keep-alive',
         'Upgrade-Insecure-Requests': '1',
         'TE': 'Trailers'
-      }
+      },
+      maxRedirects: 5  // Follow redirects automatically (with a max of 5 redirects)
     });
 
-    // Check if the URL has redirected
-    const finalUrl = response.request.res.responseUrl;
-    if (finalUrl !== `https://www.tvpassport.com/tv-listings/stations/${siteId}`) {
-      console.log(`Redirected from ${siteId} to ${finalUrl}`);
-    }
-
-    // If response is successful, extract the logo
     if (response.status === 200) {
       const $ = cheerio.load(response.data);
 
