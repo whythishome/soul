@@ -47,7 +47,9 @@ async function fetchData(id) {
             if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
                 const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
-                igUsername = igUsernameMatch[1];
+                if (igUsername) {
+                    igUsername = igUsernameMatch[1];
+                }
                 if (pageAliasMatch) {                    
                     pageId = 'https://www.facebook.com/' + pageAliasMatch[1];
                 } else {
