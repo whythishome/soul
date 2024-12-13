@@ -28,6 +28,8 @@ fs.readFile(filePath, 'utf-8', (err, data) => {
       channel.textContent = `US: ${channelName}`;
     } else if (xmltvId.endsWith('.ca')) {
       channel.textContent = `CA: ${channelName}`;
+    } else if (!xmltvId) { // If xmltv_id is empty
+      channel.textContent = `US: ${channelName}`;
     }
   }
 
