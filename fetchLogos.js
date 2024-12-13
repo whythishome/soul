@@ -58,24 +58,42 @@ fs.readFile('tvpassport.com.channels.xml', 'utf8', (err, data) => {
 // Function to fetch the logo URL based on site_id from TV Passport
 async function fetchLogoForSiteId(siteId) {
   try {
-    // Fetch the HTML page of the site
-    const response = await axios.get(`https://www.tvpassport.com/tv-listings/stations/${siteId}`);
-    
-    // Parse the HTML using cheerio
-    const $ = cheerio.load(response.data);
+    const response = await axios.get(`https://www.tvpassport.com/tv-listings/stations/${siteId}`, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'TE': 'Trailers'
+      }
+    });
 
-    // Extract the logo URL from the <meta property="og:image" content="..."/>
-    const logoContent = $('meta[property="og:image"]').attr('content');
-    
-    if (logoContent) {
-      // Prepend 'https:' to the content if it starts with '//'
-      const logoUrl = logoContent.startsWith('//') ? `https:${logoContent}` : logoContent;
-      return logoUrl;
+    if (response.status === 200) {
+      const $ = cheerio.load(response.data);
+
+      // Get the content from the og:image meta tag
+      const logoContent = $('meta[property="og:image"]').attr('content');
+
+      if (logoContent) {
+        // Check if the logo URL ends with ".png"
+        if (logoContent.includes('.png')) {
+          const logoUrl = logoContent.startsWith('//') ? `https:${logoContent}` : logoContent;
+          return logoUrl;
+        } else {
+          console.error(`Invalid image type (not PNG) for site_id: ${siteId}`);
+          return ''; // Return blank if it's not a PNG
+        }
+      } else {
+        console.error(`Logo not found for site_id: ${siteId}`);
+        return ''; // Return blank if no logo is found
+      }
     } else {
-      throw new Error('Logo not found in the HTML content');
+      console.error(`Error fetching page for site_id ${siteId}: ${response.status} - ${response.statusText}`);
+      return ''; // Handle error gracefully
     }
   } catch (error) {
-    console.error(`Error fetching logo for site_id ${siteId}:`, error);
-    return ''; // Return empty string or a default logo if the fetch fails
+    console.error(`Error fetching logo for site_id ${siteId}:`, error.message);
+    return ''; // Return an empty string or a default logo
   }
 }
