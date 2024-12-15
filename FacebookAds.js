@@ -47,9 +47,8 @@ async function fetchData(id) {
             if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
                 const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
-                if (igUsername) {
+                if (igUsernameMatch) {
                     igUsername = igUsernameMatch[1];
-                    console.log(igUsername);
                 }
                 if (pageAliasMatch) {                    
                     pageId = 'https://www.facebook.com/' + pageAliasMatch[1];
@@ -73,7 +72,6 @@ async function fetchAllData(ids) {
     for (const id of ids) {
         const result = await fetchData(id);
         results.push(result);
-        console.log(result);
         if (result.igUsername) {
             console.log(`ID: ${result.id}, Instagram Username: ${result.igUsername}`);
         } else if (result.pageId) {
@@ -86,7 +84,6 @@ async function fetchAllData(ids) {
 }
 
 async function saveToTextFile(results, filePath) {
-    console.log(result.igUsername);
     const fileContent = results.map(result =>
         `${result.id};${result.igUsername || ''};${result.pageId || ''}`
     ).join('\n');
