@@ -6,7 +6,7 @@ async function makeRequests() {
     const channelSourceIds = '9200020460';
     const apiKey = 'DI9elXhZ3bU6ujsA2gXEKOANyncXGUGc';
 
-    while (duration <= 1000) { // You can adjust the upper limit as needed
+    while (duration <= 20500) { // You can adjust the upper limit as needed
         const url = `${baseUrl}${duration}&channelSourceIds=${channelSourceIds}&apiKey=${apiKey}`;
 
         try {
