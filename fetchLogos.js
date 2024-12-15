@@ -21,7 +21,7 @@ fs.readFile(filePath, 'utf-8', (err, data) => {
   for (let i = 0; i < channels.length; i++) {
     const channel = channels[i];
     const logo = channel.getAttribute("logo");
-    if (logo && logo.startsWith("https://github.com/")) {
+    if (logo && !logo.startsWith("https://github.com/")) {
         channel.parentNode.removeChild(channel);
     }
 }
