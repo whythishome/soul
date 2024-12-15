@@ -33,7 +33,6 @@ async function fetchData(id) {
 
     try {
         const response = await axios.get(url, { headers });
-        console.log(response.data);
         const html = response.data;
         // Load the HTML into Cheerio
         const $ = cheerio.load(html);
@@ -74,6 +73,7 @@ async function fetchAllData(ids) {
     for (const id of ids) {
         const result = await fetchData(id);
         results.push(result);
+        console.log(result.igUsername);
         if (result.igUsername) {
             console.log(`ID: ${result.id}, Instagram Username: ${result.igUsername}`);
         } else if (result.pageId) {
@@ -86,6 +86,7 @@ async function fetchAllData(ids) {
 }
 
 async function saveToTextFile(results, filePath) {
+    console.log(result.igUsername);
     const fileContent = results.map(result =>
         `${result.id};${result.igUsername || ''};${result.pageId || ''}`
     ).join('\n');
