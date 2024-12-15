@@ -46,14 +46,23 @@ async function fetchData(id) {
             const scriptContent = $(element).html();
             if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
-                const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
                 if (igUsernameMatch) {
                     igUsername = igUsernameMatch[1];
-                } if (pageAliasMatch) {                    
-                    pageId = pageAliasMatch[1];
-                } else {
-                    const pageIdMatch = scriptContent.match(/"page_id":"([^"]+)"/);
-                    pageId = 'https://www.facebook.com/' + pageIdMatch[1];
+                }
+                if (scriptContent && scriptContent.includes('"page_profile_uri":')) {
+                    const pageProfileUriMatch = scriptContent.match(/"page_profile_uri":"([^"]+)"/);
+                    if (pageProfileUriMatch) {
+                        pageProfileUri = pageProfileUriMatch[1];
+                    }
+                }
+                if (pageProfileUri && pageProfileUri.includes('facebook.com')) {
+                    const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
+                    if (pageAliasMatch) {
+                        pageId = 'https://www.facebook.com/' + pageAliasMatch[1];
+                    } else {
+                        const pageIdMatch = scriptContent.match(/"page_id":"([^"]+)"/);
+                        pageId = 'https://www.facebook.com/' + pageIdMatch[1];
+                    }
                 }
             }
         });
