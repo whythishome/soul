@@ -49,16 +49,15 @@ async function fetchData(id) {
                 const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
                 if (igUsernameMatch) {
                     igUsername = igUsernameMatch[1];
-                }
-                if (pageAliasMatch) {                    
-                    pageId = 'https://www.facebook.com/' + pageAliasMatch[1];
+                } if (pageAliasMatch) {                    
+                    pageId = pageAliasMatch[1];
                 } else {
                     const pageIdMatch = scriptContent.match(/"page_id":"([^"]+)"/);
                     pageId = 'https://www.facebook.com/' + pageIdMatch[1];
                 }
             }
         });
-        console.log(igUsername);
+
         return { id, igUsername, pageId };
 
     } catch (error) {
