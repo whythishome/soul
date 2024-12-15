@@ -18,13 +18,14 @@ fs.readFile(filePath, 'utf-8', (err, data) => {
   // Get all channel elements
   const channels = xmlDoc.getElementsByTagName('channel');
 
-  for (let i = 0; i < channels.length; i++) {
+  // Iterate over the channels in reverse order
+  for (let i = channels.length - 1; i >= 0; i--) {
     const channel = channels[i];
     const logo = channel.getAttribute("logo");
     if (logo && !logo.startsWith("https://github.com/")) {
-        channel.parentNode.removeChild(channel);
+      channel.parentNode.removeChild(channel);
     }
-}
+  }
 
   // Serialize the updated XML
   const serializer = new XMLSerializer();
