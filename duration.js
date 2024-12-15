@@ -11,7 +11,9 @@ async function makeRequests() {
 
         try {
             const response = await axios.get(url);
+            if (response.status != 400) {
             console.log(`Duration: ${duration}, Status Code: ${response.status}`);
+            }
         } catch (error) {
             if (error.response) {
                 // The request was made and the server responded with a status code
