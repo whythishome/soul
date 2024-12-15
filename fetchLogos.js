@@ -20,18 +20,11 @@ fs.readFile(filePath, 'utf-8', (err, data) => {
 
   for (let i = 0; i < channels.length; i++) {
     const channel = channels[i];
-    const xmltvId = channel.getAttribute('xmltv_id');
-    let channelName = channel.textContent.trim();
-
-    // Update channel name based on xmltv_id
-    if (xmltvId.endsWith('.us')) {
-      channel.textContent = `US: ${channelName}`;
-    } else if (xmltvId.endsWith('.ca')) {
-      channel.textContent = `CA: ${channelName}`;
-    } else if (!xmltvId) { // If xmltv_id is empty
-      channel.textContent = `US: ${channelName}`;
+    const logo = channel.getAttribute("logo");
+    if (logo && logo.startsWith("https://github.com/")) {
+        channel.parentNode.removeChild(channel);
     }
-  }
+}
 
   // Serialize the updated XML
   const serializer = new XMLSerializer();
