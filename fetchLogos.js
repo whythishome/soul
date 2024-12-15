@@ -2,7 +2,7 @@ const fs = require('fs');
 const { DOMParser, XMLSerializer } = require('xmldom');
 
 // File path
-const filePath = 'tvpassport.com.channels.xml';
+const filePath = 'tvguide.com.channels.xml';
 
 // Read the XML file
 fs.readFile(filePath, 'utf-8', (err, data) => {
