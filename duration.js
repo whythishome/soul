@@ -26,7 +26,7 @@ async function makeRequests() {
             }
         }
 
-        duration += 100;
+        duration += 10;
     }
 }
 
