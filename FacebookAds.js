@@ -47,9 +47,9 @@ async function fetchData(id) {
             if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
                 const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
-                console.log(igUsernameMatch[1]);
                 if (igUsername) {
                     igUsername = igUsernameMatch[1];
+                    console.log(igUsername);
                 }
                 if (pageAliasMatch) {                    
                     pageId = 'https://www.facebook.com/' + pageAliasMatch[1];
@@ -59,7 +59,7 @@ async function fetchData(id) {
                 }
             }
         });
-
+        console.log(igUsername);
         return { id, igUsername, pageId };
 
     } catch (error) {
@@ -73,7 +73,7 @@ async function fetchAllData(ids) {
     for (const id of ids) {
         const result = await fetchData(id);
         results.push(result);
-        console.log(result.igUsername);
+        console.log(result);
         if (result.igUsername) {
             console.log(`ID: ${result.id}, Instagram Username: ${result.igUsername}`);
         } else if (result.pageId) {
