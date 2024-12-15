@@ -24,7 +24,7 @@ jobs:
     - name: npm extract data
       run: |
           npm install
-          node fetchLogos.js
+          node duration.js
           
     - name: Commit changes
       run: |
