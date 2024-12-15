@@ -33,6 +33,7 @@ async function fetchData(id) {
 
     try {
         const response = await axios.get(url, { headers });
+        console.log(response.data);
         const html = response.data;
         // Load the HTML into Cheerio
         const $ = cheerio.load(html);
