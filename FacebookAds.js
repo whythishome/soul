@@ -48,6 +48,7 @@ async function fetchData(id) {
             if (scriptContent && scriptContent.includes('"ig_username":') && scriptContent.includes('"page_id":')) {
                 const igUsernameMatch = scriptContent.match(/"ig_username":"([^"]+)"/);
                 const pageAliasMatch = scriptContent.match(/"page_alias":"([^"]+)"/);
+                console.log(igUsernameMatch);
                 if (igUsername) {
                     igUsername = igUsernameMatch[1];
                 }
