@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200009764" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200004886.png">HBO Latino</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233008160" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000139.png">HBO Signature</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200000016" logo="https://github.com/festy1986/epg/blob/master/logos/the%20cooking%20channel.png?raw=true">US: The Cooking Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200000070" logo="https://github.com/festy1986/epg/blob/master/logos/nba%20tv.png?raw=true">US: NBA TV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200000652" logo="https://github.com/festy1986/epg/blob/master/logos/hbo.png?raw=true">US: HBO (West)</channel>
@@ -80,7 +82,6 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233000037" logo="https://github.com/festy1986/epg/blob/master/logos/vh%201.png?raw=trueg">US: VH1 (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233000262" logo="https://github.com/festy1986/epg/blob/master/logos/starz%20encore%20west.png?raw=true">US: STARZ ENCORE (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233000381" logo="https://github.com/festy1986/epg/blob/master/logos/bbc%20america.png?raw=true">US: BBC News HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233000403" logo="https://github.com/festy1986/epg/blob/master/logos/tbs.png?raw=true">US: TBS Superstation (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233000410" logo="https://github.com/festy1986/epg/blob/master/logos/fox%20news.png?raw=true">US: Fox News Channel (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233001912" logo="https://github.com/festy1986/epg/blob/master/logos/starz%20comedy.png?raw=true">US: STARZ Comedy HD (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233001924" logo="https://github.com/festy1986/epg/blob/master/logos/smithsonian%20channel.png?raw=true">US: Smithsonian Channel HDTV (East)</channel>
@@ -91,7 +92,6 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233003754" logo="https://github.com/festy1986/epg/blob/master/logos/starz%20edge.png?raw=true">US: STARZ Edge HD (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233003785" logo="https://github.com/festy1986/epg/blob/master/logos/hbo%20comedy.png?raw=true">US: HBO Comedy HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233003805" logo="https://github.com/festy1986/epg/blob/master/logos/showtime%20showcase.png?raw=true">US: Showtime Showcase (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233003902" logo="https://github.com/festy1986/epg/blob/master/logos/tbs.png?raw=true">US: TBS Superstation HDTV (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233004102" logo="https://github.com/festy1986/epg/blob/master/logos/discovery.png?raw=true">US: The Discovery Channel (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233004106" logo="https://github.com/festy1986/epg/blob/master/logos/usa%20network.png?raw=true">US: USA Network (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233004112" logo="https://github.com/festy1986/epg/blob/master/logos/tlc.png?raw=true">US: The Learning Channel (East)</channel>
@@ -137,4 +137,36 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233015766" logo="https://github.com/festy1986/epg/blob/master/logos/cinemax%20moremax.png?raw=true">US: More Max (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233015768" logo="https://github.com/festy1986/epg/blob/master/logos/american%20heroes.png?raw=true">US: American Heroes Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233015922" logo="https://github.com/festy1986/epg/blob/master/logos/moviemax.png?raw=true">US: MOVIEMAX HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233005931" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000050.png">US: BET</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200000075" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000162.png">US: C-SPAN 2</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200003760" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200031178.png">US: WGME-DT3 Portland, Maine (The Nest)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200004423" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200014771.png">US: WPFO-DT Waterville, Maine. (FOX)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200005724" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200031046.png">US: WPFO-DT3 Waterville, Maine. (Comet)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200006484" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200023750.png">US: WPXT-DT Portland, Maine (CW)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200009047" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200023699.png">US: WCSH-DT2 Portland, Maine (True Crime Network)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200013537" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200030957.png">US: WCSH-DT3 Portland, Maine (Quest)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200014312" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200012837.png">US: WMTW-DT Poland Spring, Maine (ABC)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200014885" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011357.png">US: WCBB-DT4 Augusta, Me. (PBS Kids 24/7)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200016252" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200026834.png">US: WMTW-DT2 Poland Spring, Maine (MeTV)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200017556" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200032793.png">US: WPXT-DT3 Portland, Maine (ION Mystery)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200017917" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011066.png">US: The Tennis Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200018453" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200031068.png">US: WPFO-DT2 Waterville, Maine. (Charge!)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200020338" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200027616.png">US: WPXT-DT2 Portland, Maine (MyNet/Heroes &amp; Icons)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9200012343" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000195.png">US: E!</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233000403" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000025.png">US: tbs</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233001666" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200013648.png">US: WGME-DT Portland, Maine (CBS)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233003676" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200019158.png">US: WGME-DT2 Portland, Maine (TBD)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233005477" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200011354.png">US: WCBB-DT Augusta, Me. (PBS)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233005684" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200024843.png">US: WIPL-DT Lewiston, Maine (ION)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233006796" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200013617.png">US: WCSH-DT Portland, Maine (NBC)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233007144" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200000030.png">US: C-SPAN</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233009689" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200027228.png">US: WCBB-DT3 Augusta, Me. (World)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233015238" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200025598.png">US: WCBB-DT2 Augusta, Me. (Create)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9233015433" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200013630.png">US: WENH-DT Durham, N.H. (PBS)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002976#9266073627" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200038899.png">US: WMTW-DT3 Poland Spring, Maine (Laff)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9133002850#9200002104" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200038899.png">US: WBTS-CD Nashua, N.H. (NBC)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9133002850#9200014245" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200038899.png">US: WCVB-DT Boston, Mass. (ABC)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9133002850#9200008813" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200038899.png">US: WFXT-DT Boston, Mass. (FOX)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9133002850#9200004386" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200038899.png">US: WLVI-DT Cambridge, Mass. (CW)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9133002850#9200008811" logo="https://www.tvguide.com/a/img/catalog/provider/8/4/8-9200038899.png">US: WBZ-DT Boston, Mass. (CBS)</channel>
 </channels>
