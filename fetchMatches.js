@@ -1,67 +1,42 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const fs = require('fs');
 
-// Define the URL and headers
-const url = "https://www.fancode.com/";
-const headers = {
-    "sec-ch-ua": '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": '"Windows"',
-    "upgrade-insecure-requests": "1",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-};
+(async () => {
+    try {
+        // Define the headers
+        const headers = {
+            'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+        };
 
-// Make the GET request using Axios
-axios.get(url, { headers })
-    .then(response => {
-        if (response.status !== 200) {
-            throw new Error('Network response was not ok ' + response.statusText);
-        }
-        return response.data; // Get the HTML response as text
-    })
-    .then(html => {
-        // Load the HTML into Cheerio
-        const $ = cheerio.load(html);
+        // Make the request to the website
+        const response = await axios.get('https://www.fancode.com/', { headers });
 
-        // Find the script tag containing the JSON data
-        const scriptTag = $('script').filter(function() {
-            return $(this).html().includes('window.__INIT_STATE__');
-        }).html();
+        // Load the HTML into cheerio
+        const $ = cheerio.load(response.data);
 
-        // Debug: Print the script tag content
-        if (scriptTag) {
-            console.log('Script tag content:', scriptTag);
-        } else {
-            console.error('Script tag containing window.__INIT_STATE__ not found.');
-            return;
-        }
-
-        // Extract the JSON data from the script tag
-        const jsonMatch = scriptTag.match(/window\.__INIT_STATE__\s*=\s*({[^;]*});/s);
-
-        if (jsonMatch) {
-            const jsonString = jsonMatch[1];
-            try {
-                // Parse the JSON data
-                const initState = JSON.parse(jsonString);
-                console.log(initState); // Store or use the parsed JSON data
-
-                // Save the JSON data to a file
-                fs.writeFile('matches.json', JSON.stringify(initState, null, 2), (err) => {
-                    if (err) {
-                        console.error('Error writing to file:', err);
-                    } else {
-                        console.log('JSON data has been saved to matches.json');
-                    }
-                });
-            } catch (error) {
-                console.error('Error parsing JSON:', error);
+        // Extract the content of the script tag containing "window.__INIT_STATE__"
+        let initState = null;
+        $('script').each((index, element) => {
+            const scriptContent = $(element).html();
+            if (scriptContent && scriptContent.includes('window.__INIT_STATE__')) {
+                const match = scriptContent.match(/window\.\__INIT_STATE__\s*=\s*(\{.*?\});/);
+                if (match && match[1]) {
+                    initState = JSON.parse(match[1]);
+                }
             }
+        });
+
+        // Log the extracted JSON
+        if (initState) {
+            console.log('Extracted JSON:', initState);
         } else {
-            console.error('JSON data not found in the script tag.');
+            console.log('Could not find the window.__INIT_STATE__ variable.');
         }
-    })
-    .catch(error => {
-        console.error('There was a problem with the Axios operation:', error);
-    });
+    } catch (error) {
+        console.error('Error fetching or parsing the page:', error);
+    }
+})();
