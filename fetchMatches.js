@@ -29,33 +29,37 @@ axios.get(url, { headers })
             return $(this).html().includes('window.__INIT_STATE__');
         }).html();
 
+        // Debug: Print the script tag content
         if (scriptTag) {
-            // Extract the JSON data from the script tag
-            const jsonMatch = scriptTag.match(/window\.__INIT_STATE__\s*=\s*({.*});/);
-
-            if (jsonMatch) {
-                const jsonString = jsonMatch[1];
-                try {
-                    // Parse the JSON data
-                    const initState = JSON.parse(jsonString);
-                    console.log(initState); // Store or use the parsed JSON data
-
-                    // Save the JSON data to a file
-                    fs.writeFile('matches.json', JSON.stringify(initState, null, 2), (err) => {
-                        if (err) {
-                            console.error('Error writing to file:', err);
-                        } else {
-                            console.log('JSON data has been saved to matches.json');
-                        }
-                    });
-                } catch (error) {
-                    console.error('Error parsing JSON:', error);
-                }
-            } else {
-                console.error('JSON data not found in the script tag.');
-            }
+            console.log('Script tag content:', scriptTag);
         } else {
             console.error('Script tag containing window.__INIT_STATE__ not found.');
+            return;
+        }
+
+        // Extract the JSON data from the script tag
+        const jsonMatch = scriptTag.match(/window\.__INIT_STATE__\s*=\s*({.*});/);
+
+        if (jsonMatch) {
+            const jsonString = jsonMatch[1];
+            try {
+                // Parse the JSON data
+                const initState = JSON.parse(jsonString);
+                console.log(initState); // Store or use the parsed JSON data
+
+                // Save the JSON data to a file
+                fs.writeFile('matches.json', JSON.stringify(initState, null, 2), (err) => {
+                    if (err) {
+                        console.error('Error writing to file:', err);
+                    } else {
+                        console.log('JSON data has been saved to matches.json');
+                    }
+                });
+            } catch (error) {
+                console.error('Error parsing JSON:', error);
+            }
+        } else {
+            console.error('JSON data not found in the script tag.');
         }
     })
     .catch(error => {
