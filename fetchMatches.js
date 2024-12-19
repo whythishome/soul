@@ -38,7 +38,7 @@ axios.get(url, { headers })
         }
 
         // Extract the JSON data from the script tag
-        const jsonMatch = scriptTag.match(/window\.__INIT_STATE__\s*=\s*({.*});/s);
+        const jsonMatch = scriptTag.match(/window\.__INIT_STATE__\s*=\s*({[^;]*});/s);
 
         if (jsonMatch) {
             const jsonString = jsonMatch[1];
