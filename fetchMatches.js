@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 // Define the URL and headers
 const url = "https://www.fancode.com/";
@@ -38,6 +39,15 @@ axios.get(url, { headers })
                     // Parse the JSON data
                     const initState = JSON.parse(jsonString);
                     console.log(initState); // Store or use the parsed JSON data
+
+                    // Save the JSON data to a file
+                    fs.writeFile('matches.json', JSON.stringify(initState, null, 2), (err) => {
+                        if (err) {
+                            console.error('Error writing to file:', err);
+                        } else {
+                            console.log('JSON data has been saved to matches.json');
+                        }
+                    });
                 } catch (error) {
                     console.error('Error parsing JSON:', error);
                 }
